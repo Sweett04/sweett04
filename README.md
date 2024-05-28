@@ -1,8 +1,9 @@
-Bem-Vindo!
-Prefiro que me chame de ´B`, é um apelido fofo.
+## Bem-Vindo!
 
-![](https://tenor.com/pt-BR/view/plead-bear-cute-sparkle-gif-17504932)
+" Prefiro que me chame de ´B`, é um apelido fofo.
 
-" Eu adoro ler... <3
+![](https://media1.tenor.com/m/r0OWqBLk_p0AAAAC/plead-bear.gif)
 
-" O Diario de uma Princesa é meu filme preferido.
+- Eu adoro ler... <3
+
+- O Diario de uma Princesa é meu filme preferido.
